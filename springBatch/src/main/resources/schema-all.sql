@@ -1,4 +1,4 @@
-DROP TABLE countries IF EXISTS;
+DROP TABLE countries;
 
 CREATE TABLE countries  (
     id INT NOT NULL PRIMARY KEY,
